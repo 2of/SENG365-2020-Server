@@ -4,7 +4,7 @@
 ## PREFACE
 This is a submission for the 2020 SENG365 Serverside Assignment. It received an **Almost Perfect** grade, failing only one or two of the automated tests, simply for having an incorrect error code.
 
-This is a restful implementation of a Petition website where Users may register, login, add, comment on, remove and sign petitions with rich images and primitive security using expressJS.
+This is a RESTful implementation of a Petition website where users may register, login, add, comment on, remove and sign petitions with rich images and primitive security using expressJS.
 
 The server can be run through node using:
 
