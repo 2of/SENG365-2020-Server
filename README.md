@@ -1,5 +1,27 @@
 # SENG365 2020 Assignment 1
 
+
+## PREFACE
+This is a submission for the 2020 SENG365 Serverside Assignment. It received an **Almost Perfect** grade, failing only one or two of the automated tests, simply for having an incorrect error code.
+
+The server can be run through node using:
+
+
+```javascript
+
+npm install
+node server.js <port>
+
+```
+
+However, note that the mysql database hosted by the University of Canterbury is ***inactive*** so you may need to setup your own solution.
+
+
+
+## The following is provided by the Univeristy Of Canterbury in 2020
+### There may be stubs, boilerplate and, of course, the following readme that were not my original work. Simply refer to the files themselves for reference.
+Good Luck!
+
 ## Overview of the continuous deployment process
 
 1. You hackity hack...
