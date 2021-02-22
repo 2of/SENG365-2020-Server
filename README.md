@@ -20,7 +20,7 @@ However, note that the mysql database hosted by the University of Canterbury is 
 
 
 
-## The following is provided by the Univeristy Of Canterbury in 2020
+## The following is provided by the University Of Canterbury in 2020
 ### There may be stubs, boilerplate and, of course, the following readme that were not my original work. Simply refer to the files themselves for reference.
 Good Luck!
 
